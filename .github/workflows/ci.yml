@@ -28,4 +28,4 @@ jobs:
       pull-requests: write
       contents: write
     steps:
-      - uses: fastify/github-action-merge-dependabot@v3
+      - uses: fastify/github-action-merge-dependabot@fix/event-name
